@@ -1,4 +1,3 @@
-// Import the API
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 
 async function main () {
